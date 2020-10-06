@@ -1,6 +1,6 @@
 # Core Web Application Series
 
-`Getting the core things very very right.`
+`Getting the core things done very very right.`
 
 Influenced by
 - If your product is great it doesn't need to be good. (Paul Buchheit)
