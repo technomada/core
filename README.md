@@ -1,7 +1,5 @@
 # Core Web Application Series
 
-A series of useful web applications each focused on solving a specific user need.
-
 `Getting the core things done very very right.`
 
 ## Influenced by
@@ -17,6 +15,8 @@ A series of useful web applications each focused on solving a specific user need
 - https://github.com/technomada/basic-soltime
 - https://github.com/technomada/basic-tracker
 - https://github.com/technomada/core-slides
+
+`Pick three key attributes or features, get those things very, very right.`
 
 ==============
 
