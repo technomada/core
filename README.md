@@ -10,7 +10,7 @@ A series of useful web applications each focused on solving a specific user need
 
 ## Features
 - common data
-- container ready
+- containered
 - single sign on
 
 ## Applications
