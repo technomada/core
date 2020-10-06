@@ -1,8 +1,10 @@
-# Core
-Core Web Application Series
+# Core Web Application Series
 
+Influenced by
+- If your product is great it doesn't need to be good. (Paul Buchheit)
+- Calm Design (Mark Weiser, John Seely Brown)
 
-
+A series of useful web applications each focused on solving a specific user need.
 
 
 
