@@ -7,6 +7,8 @@
 - Calm Design (Mark Weiser, John Seely Brown)
 
 ## Features
+- low cognitive burden
+- one problem one app
 - common data
 - containered
 - single sign on
