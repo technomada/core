@@ -8,7 +8,7 @@
 
 ## User Features
 - low cognitive burden
-- one problem one app
+- one task one app
 
 ## Arch Features
 - common data
