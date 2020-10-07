@@ -12,8 +12,8 @@
 - single sign on
 
 ## Applications
-- https://github.com/technomada/basic-soltime
-- https://github.com/technomada/basic-tracker
+- https://github.com/technomada/core-soltime
+- https://github.com/technomada/core-tracker
 - https://github.com/technomada/core-slides
 
 `Pick three key attributes or features, get those things very, very right.`
