@@ -16,9 +16,12 @@
 - single sign on
 
 ## Applications
-- https://github.com/technomada/core-soltime
-- https://github.com/technomada/core-tracker
-- https://github.com/technomada/core-slides
+
+- https://github.com/technomada/core-auth -- (common service) auth and api
+- https://github.com/technomada/core-dialout -- phone
+- https://github.com/technomada/core-soltime -- synchronized sleep clock
+- https://github.com/technomada/core-tracker -- geo location
+- https://github.com/technomada/core-slides -- slideshow
 
 `Pick three key attributes or features, get those things very, very right.`
 
