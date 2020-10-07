@@ -3,8 +3,8 @@
 `Getting the core things done very very right.`
 
 ## Influenced by
-- If your product is great it doesn't need to be good. (Paul Buchheit)
 - Calm Design (Mark Weiser, John Seely Brown)
+- If your product is great it doesn't need to be good. (Paul Buchheit)
 
 ## User Features
 - low cognitive burden
