@@ -6,9 +6,11 @@
 - If your product is great it doesn't need to be good. (Paul Buchheit)
 - Calm Design (Mark Weiser, John Seely Brown)
 
-## Features
+## User Features
 - low cognitive burden
 - one problem one app
+
+## Arch Features
 - common data
 - containered
 - single sign on
